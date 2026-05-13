@@ -1,0 +1,25 @@
+# Build outputs
+*.o
+*.obj
+*.out
+a.out
+bin/
+obj/
+build/
+
+# Code::Blocks artefacts
+*.depend
+*.layout
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Compiled executables
+packetsniffer
+sniffer
