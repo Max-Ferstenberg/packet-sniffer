@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1754238391 source:/home/kali/Projects/Packet Sniffer/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<pcap.h>
+
